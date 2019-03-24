@@ -1,5 +1,6 @@
 import React from "react";
 import { Tab, Tabs, TabList } from "react-tabs";
+// Using my own styling here, rather than the one that comes with react-tabs
 import "./react-tabs.css";
 import SwipeableViews from "react-swipeable-views";
 
